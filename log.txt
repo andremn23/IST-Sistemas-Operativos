@@ -1,0 +1,1 @@
+com escrita no ficheiro para o KOS_PUT e KOS_REMOVE

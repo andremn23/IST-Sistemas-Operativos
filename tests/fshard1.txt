@@ -1,0 +1,31 @@
+A imprimir shard: 1
+clientId 0:  
+clientId 1: (k-c1-49, val:490), (k-c1-48, val:480), (k-c1-47, val:470), (k-c1-46, val:460), (k-c1-45, val:450), (k-c1-44, val:440), (k-c1-43, val:430), (k-c1-42, val:420), (k-c1-41, val:410), (k-c1-40, val:400), (k-c1-39, val:390), (k-c1-38, val:380), (k-c1-37, val:370), (k-c1-36, val:360), (k-c1-35, val:350), (k-c1-34, val:340), (k-c1-33, val:330), (k-c1-32, val:320), (k-c1-31, val:310), (k-c1-30, val:300), (k-c1-29, val:290), (k-c1-28, val:280), (k-c1-27, val:270), (k-c1-26, val:260), (k-c1-25, val:250), (k-c1-24, val:240), (k-c1-23, val:230), (k-c1-22, val:220), (k-c1-21, val:210), (k-c1-20, val:200), (k-c1-19, val:190), (k-c1-18, val:180), (k-c1-17, val:170), (k-c1-16, val:160), (k-c1-15, val:150), (k-c1-14, val:140), (k-c1-13, val:130), (k-c1-12, val:120), (k-c1-11, val:110), (k-c1-10, val:100), (k-c1-9, val:90), (k-c1-8, val:80), (k-c1-7, val:70), (k-c1-6, val:60), (k-c1-5, val:50), (k-c1-4, val:40), (k-c1-3, val:30), (k-c1-2, val:20), (k-c1-1, val:10), (k-c1-0, val:0), (k-c1-50, val:500), (k-c1-51, val:510), (k-c1-52, val:520), (k-c1-53, val:530), (k-c1-54, val:540), (k-c1-55, val:550), (k-c1-56, val:560), (k-c1-57, val:570), (k-c1-58, val:580), (k-c1-59, val:590), (k-c1-60, val:600), (k-c1-61, val:610), (k-c1-62, val:620), (k-c1-63, val:630), (k-c1-64, val:640), (k-c1-65, val:650), (k-c1-66, val:660), (k-c1-67, val:670), (k-c1-68, val:680), (k-c1-69, val:690), (k-c1-70, val:700), (k-c1-71, val:710), (k-c1-72, val:720), (k-c1-73, val:730), (k-c1-74, val:740), (k-c1-75, val:750), (k-c1-76, val:760), (k-c1-77, val:770), (k-c1-78, val:780), (k-c1-79, val:790), (k-c1-80, val:800), (k-c1-81, val:810), (k-c1-82, val:820), (k-c1-83, val:830), (k-c1-84, val:840), (k-c1-85, val:850), (k-c1-86, val:860), (k-c1-87, val:870), (k-c1-88, val:880), (k-c1-89, val:890), (k-c1-90, val:900), (k-c1-91, val:910), (k-c1-92, val:920), (k-c1-93, val:930), (k-c1-94, val:940), (k-c1-95, val:950), (k-c1-96, val:960), (k-c1-97, val:970), (k-c1-98, val:980), (k-c1-99, val:990), 
+clientId 2:  
+clientId 3:  
+clientId 4:  
+clientId 5:  
+clientId 6:  
+clientId 7:  
+clientId 8:  
+clientId 9:  
+clientId 10:  
+clientId 11:  
+clientId 12:  
+clientId 13:  
+clientId 14:  
+clientId 15:  
+clientId 16:  
+clientId 17:  
+clientId 18:  
+clientId 19:  
+clientId 20:  
+clientId 21:  
+clientId 22:  
+clientId 23:  
+clientId 24:  
+clientId 25:  
+clientId 26:  
+clientId 27:  
+clientId 28:  
+clientId 29:  

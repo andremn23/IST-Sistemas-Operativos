@@ -1,0 +1,31 @@
+A imprimir shard: 3
+clientId 0:  
+clientId 1:  
+clientId 2:  
+clientId 3: (k-c3-49, val:490), (k-c3-48, val:480), (k-c3-47, val:470), (k-c3-46, val:460), (k-c3-45, val:450), (k-c3-44, val:440), (k-c3-43, val:430), (k-c3-42, val:420), (k-c3-41, val:410), (k-c3-40, val:400), (k-c3-39, val:390), (k-c3-38, val:380), (k-c3-37, val:370), (k-c3-36, val:360), (k-c3-35, val:350), (k-c3-34, val:340), (k-c3-33, val:330), (k-c3-32, val:320), (k-c3-31, val:310), (k-c3-30, val:300), (k-c3-29, val:290), (k-c3-28, val:280), (k-c3-27, val:270), (k-c3-26, val:260), (k-c3-25, val:250), (k-c3-24, val:240), (k-c3-23, val:230), (k-c3-22, val:220), (k-c3-21, val:210), (k-c3-20, val:200), (k-c3-19, val:190), (k-c3-18, val:180), (k-c3-17, val:170), (k-c3-16, val:160), (k-c3-15, val:150), (k-c3-14, val:140), (k-c3-13, val:130), (k-c3-12, val:120), (k-c3-11, val:110), (k-c3-10, val:100), (k-c3-9, val:90), (k-c3-8, val:80), (k-c3-7, val:70), (k-c3-6, val:60), (k-c3-5, val:50), (k-c3-4, val:40), (k-c3-3, val:30), (k-c3-2, val:20), (k-c3-1, val:10), (k-c3-0, val:0), (k-c3-50, val:500), (k-c3-51, val:510), (k-c3-52, val:520), (k-c3-53, val:530), (k-c3-54, val:540), (k-c3-55, val:550), (k-c3-56, val:560), (k-c3-57, val:570), (k-c3-58, val:580), (k-c3-59, val:590), (k-c3-60, val:600), (k-c3-61, val:610), (k-c3-62, val:620), (k-c3-63, val:630), (k-c3-64, val:640), (k-c3-65, val:650), (k-c3-66, val:660), (k-c3-67, val:670), (k-c3-68, val:680), (k-c3-69, val:690), (k-c3-70, val:700), (k-c3-71, val:710), (k-c3-72, val:720), (k-c3-73, val:730), (k-c3-74, val:740), (k-c3-75, val:750), (k-c3-76, val:760), (k-c3-77, val:770), (k-c3-78, val:780), (k-c3-79, val:790), (k-c3-80, val:800), (k-c3-81, val:810), (k-c3-82, val:820), (k-c3-83, val:830), (k-c3-84, val:840), (k-c3-85, val:850), (k-c3-86, val:860), (k-c3-87, val:870), (k-c3-88, val:880), (k-c3-89, val:890), (k-c3-90, val:900), (k-c3-91, val:910), (k-c3-92, val:920), (k-c3-93, val:930), (k-c3-94, val:940), (k-c3-95, val:950), (k-c3-96, val:960), (k-c3-97, val:970), (k-c3-98, val:980), (k-c3-99, val:990), 
+clientId 4:  
+clientId 5:  
+clientId 6:  
+clientId 7:  
+clientId 8:  
+clientId 9:  
+clientId 10:  
+clientId 11:  
+clientId 12:  
+clientId 13:  
+clientId 14:  
+clientId 15:  
+clientId 16:  
+clientId 17:  
+clientId 18:  
+clientId 19:  
+clientId 20:  
+clientId 21:  
+clientId 22:  
+clientId 23:  
+clientId 24:  
+clientId 25:  
+clientId 26:  
+clientId 27:  
+clientId 28:  
+clientId 29:  
